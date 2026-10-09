@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "0.2.45.1-updater-smoke",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.45.1-build57/Velzi-0.2.45.1-build57-debug.apk",
-  "sha256": "e3aa95e8f7b84cd697568af8becb912f830a4db601c254ef968acc1eae089e21",
-  "notes": "Updater test. Preserves existing features and confirmed Multiview audio fix."
+  "versionCode": 59,
+  "versionName": "0.2.46.1-tekplayer",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.46.1-build59/TekPlayer-0.2.46.1-build59-debug.apk",
+  "sha256": "975b79c874118b7a96d91166e1e62360d159014ca578e1f6365dca4dbbb577c4",
+  "notes": "TekPlayer branding update: approved TV icon, complete option #3 wordmark in EPG/header and setup, and wordmark launcher banner. Preserves saved data, playback, Catch Up, updater and confirmed Multiview audio."
 }
