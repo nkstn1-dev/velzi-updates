@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "0.2.48",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.48-build61/TekPlayer-0.2.48-build61-debug.apk",
-  "sha256": "c27fbf25d6aac36682b203a2ddcfaa7b19a9344ddeeb258fdefff5da62337c97",
-  "notes": "New cache-first Home with live preview, Now/Up Next, Recent Channels, Favorites, counts and date/time. Restores approved TekPlayer TV badge. Existing playback, Multiview, Catch Up and odds logic preserved. First Home milestone; Sports Hub follows separately. Shield test candidate."
+  "versionCode": 62,
+  "versionName": "0.2.49",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.49-build62/TekPlayer-0.2.49-build62-debug.apk",
+  "sha256": "fd3371cd5ecee132b152dd17fc695618fbbb7834ac59cdc3c6c29c01db775ce7",
+  "notes": "Combined Home and Sports update: larger preview, richer recent/favorite cards, approved TV badge and launcher banner, Live now/Today/Upcoming/My teams, explicit IPTV feed selection, corrected signed spread amounts, and visual Multiview layout choices. 139 tests and lint passed. Existing playback, audio routing and updater preserved. Shield test candidate."
 }
