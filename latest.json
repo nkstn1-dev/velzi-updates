@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "0.2.53",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.53-build66/TekPlayer-0.2.53-build66-review.apk",
-  "sha256": "d7236f5234f29595072020f96d9b8381f06d7f88385999edbfddf83c5f9d67b1",
-  "notes": "Build 66 Shield test: smaller classic programme info, direct Recent Channels, Bold Text setting, translucent gray Light overlays with black text, and Top Odds. ESPN odds labeled REFERENCE. Maya review, 199 tests, lint and unchanged signing checks passed. Device testing remains outstanding."
+  "versionCode": 71,
+  "versionName": "0.2.58",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.58-build71/TekPlayer-0.2.58-build71-review.apk",
+  "sha256": "6cf0011af005e9c983fe896bc627de39dc8e0e930a222ed25163613c034fc43d",
+  "notes": "Build 71 Shield test: redesigned Sports Hub, fullscreen dashboard and A/B video, smart Watch Now, measured feed quality, remote focus/scrolling improvements, matching Home/Live previews, and Game Odds / REFERENCE labels. Lightweight on-device Media3 diagnostics; Coil reused; no paid API. Maya review, 221 tests, lint and signing passed. Shield testing remains outstanding."
 }
