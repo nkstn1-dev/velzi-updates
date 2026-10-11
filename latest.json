@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "0.2.52",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.52-build65/TekPlayer-0.2.52-build65-review.apk",
-  "sha256": "54e19be90215c0608672267d09bdc6cb5d4b2c37c37eef481e3599e76bfa4cfb",
-  "notes": "Build 65 Shield test: compact Home, top-level Find Sports, universal cached Live Feeds, tray wrap/Back/20s dismissal, truthful Side Refresh Odds and preview labels, Zen Gray, visible VOD loading, NOW/NEXT fixes and faster cached navigation. Maya review, 195 tests, lint and signing checks passed. Device testing remains outstanding."
+  "versionCode": 66,
+  "versionName": "0.2.53",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.53-build66/TekPlayer-0.2.53-build66-review.apk",
+  "sha256": "d7236f5234f29595072020f96d9b8381f06d7f88385999edbfddf83c5f9d67b1",
+  "notes": "Build 66 Shield test: smaller classic programme info, direct Recent Channels, Bold Text setting, translucent gray Light overlays with black text, and Top Odds. ESPN odds labeled REFERENCE. Maya review, 199 tests, lint and unchanged signing checks passed. Device testing remains outstanding."
 }
