@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "0.2.50",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.50-build63/TekPlayer-0.2.50-build63-debug.apk",
-  "sha256": "d191942e0597cdcb09358e5fafca07ad9195c08609b11a682852bced7598d993",
-  "notes": "Combined Shield test build: conservative stale-media recovery, improved Sports Finder event/card and broadcaster matching, active UFC/boxing bout odds, smaller Home preview and useful rows, corrected Sports preview and Android TV banner, and settings copy. 160 tests, lint, APK and signing checks passed. Shield playback acceptance remains outstanding."
+  "versionCode": 64,
+  "versionName": "0.2.51",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.51-build64/TekPlayer-0.2.51-build64-debug.apk",
+  "sha256": "76fbf0eac7a1639a6a247d47600285942bb8d90b70bbc6782d354583946f9fb5",
+  "notes": "Build 64 Shield test candidate: Home V3, verified-live Sports Hub and Find Sports, programme Search, Favorites/Search unaffected by browse filters, session-only Stable refresh, compact Live info, Night Mode and Dark/Light/Auto. Maya exact-source review and CI passed. Shield device acceptance remains outstanding."
 }
