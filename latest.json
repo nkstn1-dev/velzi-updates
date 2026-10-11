@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "0.2.49",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.49-build62/TekPlayer-0.2.49-build62-debug.apk",
-  "sha256": "fd3371cd5ecee132b152dd17fc695618fbbb7834ac59cdc3c6c29c01db775ce7",
-  "notes": "Combined Home and Sports update: larger preview, richer recent/favorite cards, approved TV badge and launcher banner, Live now/Today/Upcoming/My teams, explicit IPTV feed selection, corrected signed spread amounts, and visual Multiview layout choices. 139 tests and lint passed. Existing playback, audio routing and updater preserved. Shield test candidate."
+  "versionCode": 63,
+  "versionName": "0.2.50",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.50-build63/TekPlayer-0.2.50-build63-debug.apk",
+  "sha256": "d191942e0597cdcb09358e5fafca07ad9195c08609b11a682852bced7598d993",
+  "notes": "Combined Shield test build: conservative stale-media recovery, improved Sports Finder event/card and broadcaster matching, active UFC/boxing bout odds, smaller Home preview and useful rows, corrected Sports preview and Android TV banner, and settings copy. 160 tests, lint, APK and signing checks passed. Shield playback acceptance remains outstanding."
 }
