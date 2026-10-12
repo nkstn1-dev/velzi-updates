@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "0.2.67",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.67-build80/TekPlayer-0.2.67-build80-review.apk",
-  "sha256": "d9124edd6de85fd17ae08cd1d671d21fecc7301a21b04567e06ab2ecf2a2bd23",
-  "notes": "Build80 Shield test: Instant/Stable-only modes, A+B fullscreen Stable session, cached startup/filter work, broader alternate sources, EPG hold fixes, Hub previews/audio/idle chrome, stronger Night Mode and Stats. 267 tests, lint, signing and exact source passed. Stable can start slower/use more RAM; physical ABC West/startup/audio QA outstanding. Build78 rollback retained."
+  "versionCode": 81,
+  "versionName": "0.2.68",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.68-build81/TekPlayer-0.2.68-build81-review.apk",
+  "sha256": "04691b6ab5fa600c365462f81c2e7f5fd6a5662604e2f54c87abb8c535cf84d4",
+  "notes": "Build81 Shield test: Catch-up Search, readable nine-tab captions, selected/focus states, Search/Stats/modal focus, held-OK Dialog release guard, consistent Favorites-only numbering and RedZone feed picker.288 tests, lint, signing and exact source passed. Physical Shield QA outstanding; Build80 rollback retained."
 }
