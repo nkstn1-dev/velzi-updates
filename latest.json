@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "0.2.63",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.63-build76/TekPlayer-0.2.63-build76-review.apk",
-  "sha256": "3b9d5843c82a10ccfdb4f288ac55e5e1a15e8101a265f8ba45f6d75ccfa2be92",
-  "notes": "Build 76 Shield test: Add/Replace Second Screen, full-card Hub pages, LEFT to Live EPG, 1.5-second timed OK/BACK holds, bounded reference-odds enrichment, 0s label and fullscreen Settings return. 233 tests, lint, signing and matching source passed. Physical Shield QA outstanding; reference prices may still be unavailable."
+  "versionCode": 78,
+  "versionName": "0.2.65",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.65-build78/TekPlayer-0.2.65-build78-review.apk",
+  "sha256": "ac8885a00e4d059eb7adf914f2696e63a170bcdf1358fdc6bb10c8d47434f6fa",
+  "notes": "Build 78 Shield test: larger adaptive Sports Hub previews/cards, full Home channel/programme details, 1.5s LEFT-to-Home and UP-to-Search, and one-time resumed MKV startup recovery. 240 tests, lint, signing and matching source passed. Physical layout/shortcut/MKV QA outstanding. Working Build76 rollback retained."
 }
