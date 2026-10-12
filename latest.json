@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "0.2.65",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.65-build78/TekPlayer-0.2.65-build78-review.apk",
-  "sha256": "ac8885a00e4d059eb7adf914f2696e63a170bcdf1358fdc6bb10c8d47434f6fa",
-  "notes": "Build 78 Shield test: larger adaptive Sports Hub previews/cards, full Home channel/programme details, 1.5s LEFT-to-Home and UP-to-Search, and one-time resumed MKV startup recovery. 240 tests, lint, signing and matching source passed. Physical layout/shortcut/MKV QA outstanding. Working Build76 rollback retained."
+  "versionCode": 80,
+  "versionName": "0.2.67",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.67-build80/TekPlayer-0.2.67-build80-review.apk",
+  "sha256": "d9124edd6de85fd17ae08cd1d671d21fecc7301a21b04567e06ab2ecf2a2bd23",
+  "notes": "Build80 Shield test: Instant/Stable-only modes, A+B fullscreen Stable session, cached startup/filter work, broader alternate sources, EPG hold fixes, Hub previews/audio/idle chrome, stronger Night Mode and Stats. 267 tests, lint, signing and exact source passed. Stable can start slower/use more RAM; physical ABC West/startup/audio QA outstanding. Build78 rollback retained."
 }
