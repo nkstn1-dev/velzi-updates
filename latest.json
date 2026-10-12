@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "0.2.58",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.58-build71/TekPlayer-0.2.58-build71-review.apk",
-  "sha256": "6cf0011af005e9c983fe896bc627de39dc8e0e930a222ed25163613c034fc43d",
-  "notes": "Build 71 Shield test: redesigned Sports Hub, fullscreen dashboard and A/B video, smart Watch Now, measured feed quality, remote focus/scrolling improvements, matching Home/Live previews, and Game Odds / REFERENCE labels. Lightweight on-device Media3 diagnostics; Coil reused; no paid API. Maya review, 221 tests, lint and signing passed. Shield testing remains outstanding."
+  "versionCode": 72,
+  "versionName": "0.2.59",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.59-build72/TekPlayer-0.2.59-build72-review.apk",
+  "sha256": "9f5880745172266e57089b98caf99e2fc966ba2fc9bd78d48598329b456e3c63",
+  "notes": "Build 72 Shield test: focus-crash guards, short/held BACK navigation, Redo Setup, seamless cropped Hub previews, reference odds and real game-clock progress, today-only upcoming events, info-first game cards and scrolling Finder feeds. 226 tests, lint and unchanged signing passed. Physical focus-crash retest outstanding; MKV startup issue remains open."
 }
