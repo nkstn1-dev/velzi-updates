@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "0.2.68",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.68-build81/TekPlayer-0.2.68-build81-review.apk",
-  "sha256": "04691b6ab5fa600c365462f81c2e7f5fd6a5662604e2f54c87abb8c535cf84d4",
-  "notes": "Build81 Shield test: Catch-up Search, readable nine-tab captions, selected/focus states, Search/Stats/modal focus, held-OK Dialog release guard, consistent Favorites-only numbering and RedZone feed picker.288 tests, lint, signing and exact source passed. Physical Shield QA outstanding; Build80 rollback retained."
+  "versionCode": 82,
+  "versionName": "0.2.69",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.69-build82/TekPlayer-0.2.69-build82-review.apk",
+  "sha256": "c181e910680ac013aac37ef4dd152493a74dd2555a2eb43d7e07a6ecb7b0515e",
+  "notes": "Build82 Shield test: full tab names, Light guide logo contrast, NFL local-day scheduled/live fallback, illustrated compact odds settings, Auto/Instant, 20/40/70% transparency, always-on logos/autoplay, active-time MKV recovery, Live HLS grace and startup diagnostics. 308 tests, lint and signing passed. Physical Shield QA pending; Build81 rollback available."
 }
