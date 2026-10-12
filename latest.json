@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "0.2.59",
-  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.59-build72/TekPlayer-0.2.59-build72-review.apk",
-  "sha256": "9f5880745172266e57089b98caf99e2fc966ba2fc9bd78d48598329b456e3c63",
-  "notes": "Build 72 Shield test: focus-crash guards, short/held BACK navigation, Redo Setup, seamless cropped Hub previews, reference odds and real game-clock progress, today-only upcoming events, info-first game cards and scrolling Finder feeds. 226 tests, lint and unchanged signing passed. Physical focus-crash retest outstanding; MKV startup issue remains open."
+  "versionCode": 76,
+  "versionName": "0.2.63",
+  "apkUrl": "https://github.com/nkstn1-dev/velzi-updates/releases/download/v0.2.63-build76/TekPlayer-0.2.63-build76-review.apk",
+  "sha256": "3b9d5843c82a10ccfdb4f288ac55e5e1a15e8101a265f8ba45f6d75ccfa2be92",
+  "notes": "Build 76 Shield test: Add/Replace Second Screen, full-card Hub pages, LEFT to Live EPG, 1.5-second timed OK/BACK holds, bounded reference-odds enrichment, 0s label and fullscreen Settings return. 233 tests, lint, signing and matching source passed. Physical Shield QA outstanding; reference prices may still be unavailable."
 }
